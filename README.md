@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlitosOMG :D
-- 👀 I’m interested in fron-end and back-end
-- 🌱 I’m currently learning Go, JS, React.js and soon TypeScript
+- 👀 I’m interested in front-end and back-end
+- 🌱 I’m currently learning Go, JS (React.js) and soon TypeScript
 - 💞️ I’m looking to collaborate on my team of the university
 - 📫 How to reach me? Contact me through Twitter @CarlitosOMG7u7
 
