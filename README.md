@@ -8,6 +8,6 @@ Me gusta crear proyectos, aprender nuevas tecnologías y seguir mejorando mis ha
 
 - JavaScript / TypeScript
 - React / Next.js
-- Node.js / Express
+- Node.js / Express / Nest.js
 - C# / .NET
-- SQL Server / MongoDB
+- SQL Server / MongoDB / MySQL / MariaDB
